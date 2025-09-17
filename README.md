@@ -1,4 +1,4 @@
-## Hello, im Zeref.
+# Hello, im Zeref.
 I currently know C++, C#, C, Rust, HTML, CSS, JavaScript.
 
 ## I love/like ...
